@@ -1,0 +1,15 @@
+{
+	"song_name": "kimi_wa_kaeru_basho",
+	"song_path": "I:\\AllKemonoFriendsMusic\\Official Releases\\Starry Story EP (FLAC)\\05 - Kimi wa Kaeru Basho.flac",
+	"isolations":
+		[
+			{"offset": 3666970, "codename": "VERSE-CHORUS 1"},
+			{"offset": 8084002, "codename": "CHORUS 2"},
+			{"offset": 666721, "codename": "VERSE 2"},
+			{"offset": 333360, "codename": "16 BEATS"},
+			{"offset": 166680, "codename": "8 BEATS"},
+			{"offset": 83340, "codename": "4 BEATS"},
+			{"offset": 41670, "codename": "2 BEATS"},
+			{"offset": 20835, "codename": "1 BEAT"}
+		]
+}

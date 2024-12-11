@@ -5,7 +5,7 @@ import numpy as np
 verbose=True
 
 import json
-with open('fanfan_off.json',encoding='utf_8') as f:
+with open('jsons/kimi_wa_kaeru_basho.json',encoding='utf_8') as f:
     js=json.loads(f.read())
 print(js)
 
