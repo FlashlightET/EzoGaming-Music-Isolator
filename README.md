@@ -52,7 +52,7 @@ take this with a grain of salt - i have always been really bad when it comes to 
 
 when i installed the repo stuff i used a python 3.11.5 venv (i searched around my pc till i found a version of python that was 3.9 or later and venved it) then installed torch
 
-`python -m pip install torch==2.2.2 torchvision==0.17.2 torchaudio==2.2.2 --index-url https://download.pytorch.org/whl/cu118                          `
+`python -m pip install torch==2.2.2 torchvision==0.17.2 torchaudio==2.2.2 --index-url https://download.pytorch.org/whl/cu118`
 
 not sure what torch version is exactly correct because that too likes to break with updates. also unsure about cuda version. cuda 11.8 seems to work fine on my RTX 3060 and ive just been using that every time i installed torch.
 
