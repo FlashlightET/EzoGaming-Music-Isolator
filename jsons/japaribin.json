@@ -1,0 +1,12 @@
+{
+	"song_name": "japaribin",
+	"song_path": "I:\\AllKemonoFriendsMusic\\Official Releases\\Stage Play Kemono Friends OST (FLAC)\\われらじゃぱりびん.flac",
+	"isolations":
+		[
+			{"offset": 2990008, "codename": "VERSE-CHORUS"},
+			{"offset": 14953, "codename": "1 BEAT"},
+			{"offset": 29906, "codename": "2 BEATS"},
+			{"offset": 59795, "codename": "4 BEATS"},
+			{"offset": 119591, "codename": "8 BEATS"}
+		]
+}

@@ -1,0 +1,12 @@
+{
+	"song_name": "fanfan_off",
+	"song_path": "I:\\AllKemonoFriendsMusic\\Official Releases\\Fre! Fre! Best Friends (FLAC, MP3)\\A04 - Doubutsu Biscuits - Fun Fun Melody (off vocal ver.).flac",
+	"isolations":
+		[
+			{"offset": 3586514, "codename": "VERSE-CHORUS"},
+			{"offset": 87478, "codename": "4 BEATS"},
+			{"offset": 43739, "codename": "2 BEATS"},
+			{"offset": 21869, "codename": "1 BEATS"},
+			{"offset": 174956, "codename": "8 BEATS"}
+		]
+}

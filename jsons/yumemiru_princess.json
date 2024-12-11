@@ -1,0 +1,12 @@
+{
+	"song_name": "yumemiru_princess",
+	"song_path": "I:\\AllKemonoFriendsMusic\\Official Releases\\PPP In The Sky (FLAC)\\04 - Royal Penguin - 夢見るプリンセス.flac",
+	"isolations":
+		[
+			{"offset": 3899585, "codename": "VERSE-CHORUS"},
+			{"offset": 17408, "codename": "1 BEAT"},
+			{"offset": 34816, "codename": "2 BEATS"},
+			{"offset": 69633, "codename": "4 BEATS"},
+			{"offset": 139266, "codename": "8 BEATS"}
+		]
+}

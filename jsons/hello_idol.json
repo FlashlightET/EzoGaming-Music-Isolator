@@ -1,0 +1,14 @@
+{
+	"song_name": "Hello! Idol",
+	"song_path": "I:\\AllKemonoFriendsMusic\\Official Releases\\PPP In The Sky (FLAC)\\05 - Gentoo Penguin - Hello！アイドル.flac",
+	"isolations":
+		[
+			{"offset": 18001, "codename": "1 BEAT"},
+			{"offset": 36002, "codename": "2 BEATS"},
+			{"offset": 72004, "codename": "4 BEATS"},
+			{"offset": 144008, "codename": "8 BEATS"},
+			{"offset": 288016, "codename": "16 BEATS"},
+			{"offset": 576032, "codename": "32 BEATS"},
+			{"offset": 2664148, "codename": "VERSE-CHORUS"}
+		]
+}

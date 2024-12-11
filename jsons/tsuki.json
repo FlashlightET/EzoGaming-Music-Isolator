@@ -1,0 +1,15 @@
+{
+	"song_name": "tsuki",
+	"song_path": "I:\\AllKemonoFriendsMusic\\Official Releases\\Starry Story EP (FLAC)\\04 -  Tsuki to Taiyou.flac",
+	"isolations":
+		[
+			{"offset": 3497390, "codename": "VERSE-CHORUS"},
+			{"offset": 4233684, "codename": "VERSE"},
+			{"offset": 736293, "codename": "VERSE 2"},
+			{"offset": 368147, "codename": "CHORUS 2"},
+			{"offset": 230092, "codename": "8 BEATS"},
+			{"offset": 92037, "codename": "4 BEATS"},
+			{"offset": 46018, "codename": "2 BEATS"},
+			{"offset": 23009, "codename": "1 BEATS"}
+		]
+}

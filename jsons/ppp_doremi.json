@@ -1,0 +1,13 @@
+{
+	"song_name": "ppp_doremi",
+	"song_path": "I:\\AllKemonoFriendsMusic\\Official Releases\\Stage Play Kemono Friends OST (FLAC)\\PPPのドレミのうた.flac",
+	"isolations":
+		[
+			{"offset": 13928, "codename": "1 BEAT"},
+			{"offset": 27857, "codename": "2 BEATS"},
+			{"offset": 55715, "codename": "4 BEATS"},
+			{"offset": 111430, "codename": "8 BEATS"},
+			{"offset": 222845, "codename": "16 BEATS"},
+			{"offset": 3008252, "codename": "VERSE-CHORUS"}
+		]
+}
